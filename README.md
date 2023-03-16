@@ -1,4 +1,4 @@
-## Fala Rapaziada! Eu sou o Danillo, estudante de Programação
+## Olá seja bem vindo! Eu sou o Danillo, estudante de Programação
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=danillo99&show_icons=true&theme=tokyonight&count_private=true">
